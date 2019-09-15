@@ -1,3 +1,7 @@
+<img src="Images%26Videos/Rpi.jpg" width="48">
+<img src="Images%26Videos/Open-cv.png" width="48">
+
+
 # Object-Following-Robot
 
 It uses **Raspberry pi** + **Motor driver** + **Web Camera** + **OpenCV** to follow an object  
