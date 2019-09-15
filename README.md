@@ -1,8 +1,8 @@
 # Object-Following-Robot
 
-It uses Raspberry pi + Motor driver + Web Camera + OpenCV to follow an object  
-It uses openCV to detect the object and according to the movement of that object the program drives the robot
-Raspberry-pi is used to do processing
+It uses **Raspberry pi** + **Motor driver** + **Web Camera** + **OpenCV** to follow an object  
+It uses **openCV** to detect the object and according to the movement of that object the program drives the robot
+**Raspberry-pi** is used to do processing
 
 ## Circuit Diagram
 
