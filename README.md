@@ -1,5 +1,3 @@
-<img src="Images%26Videos/Rpi.jpg" width="48">
-<img src="Images%26Videos/Open-cv.png" width="48">
 
 
 # Object-Following-Robot
@@ -7,6 +5,13 @@
 It uses **Raspberry pi** + **Motor driver** + **Web Camera** + **OpenCV** to follow an object  
 It uses **openCV** to detect the object and according to the movement of that object the program drives the robot
 **Raspberry-pi** is used to do processing
+
+## Tools and Technologies used
+
+<img src="Images%26Videos/Rpi.jpg" width="48">![](https://img.shields.io/badge/RPi-raspberry%20pi%203-red)
+
+<img src="Images%26Videos/Open-cv.png" width="48">![](https://img.shields.io/badge/CV-Open--CV-green)
+
 
 ## Circuit Diagram
 
