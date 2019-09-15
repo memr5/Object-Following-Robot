@@ -7,12 +7,13 @@ It uses **openCV** to detect the object and according to the movement of that ob
 **Raspberry-pi** is used to do processing
 
 ## Tools and Technologies used
+<img src="Images%26Videos/Rpi.jpg" width="48">![](https://img.shields.io/badge/RPi-raspberry%20pi%203-red)|<img src="Images%26Videos/Open-cv.png" width="48"> ![](https://img.shields.io/badge/CV-Open--CV-green)|<img src="Images%26Videos/Python3.jpg" width="55">![](https://img.shields.io/badge/Py-Python3-blue)
+:-------------------------:|:-------------------------:|:-------------------------:
 
-<img src="Images%26Videos/Rpi.jpg" width="48">![](https://img.shields.io/badge/RPi-raspberry%20pi%203-red)
 
-<img src="Images%26Videos/Open-cv.png" width="48">      ![](https://img.shields.io/badge/CV-Open--CV-green)
 
-<img src="Images%26Videos/Python3.jpg" width="48">       ![](https://img.shields.io/badge/Py-Python3-blue)
+
+
 
 
 
