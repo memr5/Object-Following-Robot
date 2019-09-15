@@ -8,6 +8,8 @@ Raspberry-pi is used to do processing
 
 ![Circuit-Diagram](https://github.com/memr5/Object-Following-Robot/blob/master/Images%26Videos/Circuit%20Diagram.png)
 
+## Images
+
 Front view                 |  Side view
 :-------------------------:|:-------------------------:
 ![Front](https://github.com/memr5/Object-Following-Robot/blob/master/Images%26Videos/FrontView.jpeg)   |  ![Side](https://github.com/memr5/Object-Following-Robot/blob/master/Images%26Videos/SideView.jpeg)
