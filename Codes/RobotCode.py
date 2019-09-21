@@ -151,7 +151,7 @@ if __name__ == "__main__":
         if k == ord('q'):
             threadStop = True
             break
-        elif k == ord('l'):
+        elif k == ord('l') and flag==1:
             print("Locked")
             print("Fw = ",fw)
             print("Fh = ",fh)
