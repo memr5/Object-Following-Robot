@@ -23,3 +23,4 @@ Front view                 |  Side view
 
 * [Meet Ranoliya](https://github.com/memr5)
 * [Vatsal Parsaniya](https://github.com/Vatsalparsaniya)
+* [Darshit Vachhani](https://github.com/darshitvachhani)
